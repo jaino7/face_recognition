@@ -6,5 +6,5 @@
 <code>$ pip install face_recognition</code>
 <code>$ pip install opencv-python</code>
 <p></p>
-<p>10行目の<code>my_face_image = face_recognition.load_image_file("")</code>にあなたの顔画像を入れることで顔認識ができます</p>
-<p>複数人登録することもできます</p>
+<p>10行目の<code>my_face_image = face_recognition.load_image_file("")</code>にあなたの顔画像を入れることで顔認識ができます。</p>
+<p>複数人登録することもできます。</p>
