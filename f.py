@@ -6,7 +6,7 @@ import numpy as np
 video_capture = cv2.VideoCapture(0)
 
 # 自分の顔の特徴値
-# 自分の顔をload_image_file("")に入れてください
+# 自分の顔写真をload_image_file("")に入れてください
 my_face_image = face_recognition.load_image_file("")
 my_face_encoding = face_recognition.face_encodings(my_face_image)[0]
 known_face_encodings = [
