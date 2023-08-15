@@ -1,6 +1,7 @@
 <h2>概要</h2>
 <p>これはあなたの顔を判定する顔認識のファイルです。</p>
 <p>もし、あなたの顔だったら"This is you"そうでなかったら"This is not you"と書かれます。</p>
+<p>ライブラリはOpenCVとface_recognitionを使用しています。</p>
 <h2>実行手順</h2>
 <p>以下をダウンロードする</p>
 <code>$ pip install face_recognition</code>
